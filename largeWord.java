@@ -14,7 +14,7 @@ import java.util.Scanner;
 			System.out.println("Enter a String");
 			String str = scan.nextLine();
 			String large="";
-			String small ="ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo";
+			String small =str;
 			int num;
 			
 			
